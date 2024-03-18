@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chonakan Chumtap I'm currently a junior in the collage. I fancy in web and app development, cloud computing and software engineering. You can contact me by "Tel: +66955799706"  * 🌍  I'm based in Bangkok, Thailand * ✉️  You can contact me at [chonakan.chu@gmail.com](mailto:chonakan.chu@gmail.com) * 🧠  I'm learning React.js, Next.js, and TypeScript
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chonakan Chumtap 
+<br />I'm currently a junior in the collage. I fancy in web and app development, cloud computing and software engineering. You can contact me by "Tel: +66955799706"  * 🌍  I'm based in Bangkok, Thailand * ✉️  You can contact me at [chonakan.chu@gmail.com](mailto:chonakan.chu@gmail.com) * 🧠  I'm learning React.js, Next.js, and TypeScript
 
 ### Skills  
 
@@ -10,6 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/Kariusdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kariusdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/Kariusdi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kariusdi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br />
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Kariusdi/CDTI-Community" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kariusdi&repo=CDTI-Community&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Kariusdi/API-Microservice" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kariusdi&repo=API-Microservice&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
