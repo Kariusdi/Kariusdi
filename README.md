@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chonakan Chumtap
 ========================================================================================================================================
 
-I'm currently a junior in the collage. I fancy in web and app development, cloud computing and software engineering. You can contact me by "Tel: +66955799706".
+I'm currently a senoir in the collage. I fancy in web and app development, cloud computing and software engineering. You can contact me by "Tel: +66955799706".
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [chonakan.chu@gmail.com](mailto:chonakan.chu@gmail.com)
