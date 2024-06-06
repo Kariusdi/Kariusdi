@@ -5,7 +5,7 @@ I'm currently a senoir in the collage. I fancy in web and app development, cloud
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [chonakan.chu@gmail.com](mailto:chonakan.chu@gmail.com)
-*   🧠  I'm learning React.js, Next.js, and TypeScript.
+*   🧠  I'm learning React.js, Next.js, TypeScript and some backends.
 
   ###  Skills 
 <p align="left">
