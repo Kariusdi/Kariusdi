@@ -36,7 +36,10 @@ I'm currently a senoir in the collage. I fancy in web and app development, cloud
                     </picture>
                     </a></p>
                     <br />
-### Badges<b>My GitHub Stats</b>
+                    
+### Badges
+
+<b>My GitHub Stats</b>
 <a href="http://www.github.com/Kariusdi"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Kariusdi&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
                   <br /><br />
