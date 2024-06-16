@@ -14,7 +14,7 @@ I'm currently a senoir in the collage. I fancy in web and app development, cloud
                   
                   
 <p align="left">
-                      <a href="https://www.github.com/Kariusdi" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/Kariusdi" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -34,6 +34,8 @@ I'm currently a senoir in the collage. I fancy in web and app development, cloud
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p>
+### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/Kariusdi"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Kariusdi&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Kariusdi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kariusdi&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Kariusdi/CDTI-Community" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kariusdi&repo=CDTI-Community&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Kariusdi&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Kariusdi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kariusdi&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                  <br /><br /><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Kariusdi/CDTI-Community" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kariusdi&repo=CDTI-Community&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
