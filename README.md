@@ -5,7 +5,7 @@ I'm currently a senoir student at CDTI. I fancy in web and app development, clou
 
 *   🌍  I'm based in Bangkok, Thailand.
 *   ✉️  You can contact me at [chonakan.chu@gmail.com](mailto:chonakan.chu@gmail.com)
-*   🧠  I'm learning React.js, Next.js, TypeScript, some backends, and AI / ML.
+*   🧠  I'm learning Next.js, TypeScript, some backends, and AI / ML.
    
    ### Skills 
 <p align="left">
